@@ -9,13 +9,14 @@ import Navbar from './Navbar/Navbar';
 import { Route } from 'react-router-dom';
 import { Routes } from 'react-router-dom';
 import Header from './Components/Header/Header';
+import App from './App';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   
     <BrowserRouter>
-        <Navbar/>
-          <Routes>
-          <Route path='/' element={<English/>}/>
+            <Navbar/>
+            <Routes>
+          <Route path='/' element={<App/>}/>
           <Route path='/english' element={<English/>}/>
           <Route path='/hindi' element={<Hindi/>}/>
       </Routes>

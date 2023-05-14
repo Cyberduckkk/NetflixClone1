@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/NetflixCloneTwo/static/css/main.2411306c.css",
-    "main.js": "/NetflixCloneTwo/static/js/main.aac20941.js",
-    "static/js/787.58b933ed.chunk.js": "/NetflixCloneTwo/static/js/787.58b933ed.chunk.js",
-    "static/media/bg.jpg": "/NetflixCloneTwo/static/media/bg.b25a426713c58f98bde3.jpg",
-    "static/media/bghindi.jpg": "/NetflixCloneTwo/static/media/bghindi.419725fd717310c942d0.jpg",
-    "static/media/Netflix-Logo.png": "/NetflixCloneTwo/static/media/Netflix-Logo.eeeb592851c8f4c229ec.png",
-    "static/media/crystalball.svg": "/NetflixCloneTwo/static/media/crystalball.559195f67dec76d76c382706eed548c9.svg",
-    "static/media/popcorn.svg": "/NetflixCloneTwo/static/media/popcorn.394e37f43074b3c694722ec7128d04b5.svg",
-    "static/media/tv.svg": "/NetflixCloneTwo/static/media/tv.96d17de50561242077c66f80197af557.svg",
-    "static/media/download.svg": "/NetflixCloneTwo/static/media/download.5218a4dd8cb590a785974923aae21d2c.svg",
-    "index.html": "/NetflixCloneTwo/index.html",
-    "main.2411306c.css.map": "/NetflixCloneTwo/static/css/main.2411306c.css.map",
-    "main.aac20941.js.map": "/NetflixCloneTwo/static/js/main.aac20941.js.map",
-    "787.58b933ed.chunk.js.map": "/NetflixCloneTwo/static/js/787.58b933ed.chunk.js.map"
+    "main.css": "/NetflixClone/static/css/main.01f7cb5a.css",
+    "main.js": "/NetflixClone/static/js/main.24beb86b.js",
+    "static/js/787.58b933ed.chunk.js": "/NetflixClone/static/js/787.58b933ed.chunk.js",
+    "static/media/bg.jpg": "/NetflixClone/static/media/bg.b25a426713c58f98bde3.jpg",
+    "static/media/bghindi.jpg": "/NetflixClone/static/media/bghindi.419725fd717310c942d0.jpg",
+    "static/media/Netflix-Logo.png": "/NetflixClone/static/media/Netflix-Logo.eeeb592851c8f4c229ec.png",
+    "static/media/crystalball.svg": "/NetflixClone/static/media/crystalball.559195f67dec76d76c382706eed548c9.svg",
+    "static/media/popcorn.svg": "/NetflixClone/static/media/popcorn.394e37f43074b3c694722ec7128d04b5.svg",
+    "static/media/tv.svg": "/NetflixClone/static/media/tv.96d17de50561242077c66f80197af557.svg",
+    "static/media/download.svg": "/NetflixClone/static/media/download.5218a4dd8cb590a785974923aae21d2c.svg",
+    "index.html": "/NetflixClone/index.html",
+    "main.01f7cb5a.css.map": "/NetflixClone/static/css/main.01f7cb5a.css.map",
+    "main.24beb86b.js.map": "/NetflixClone/static/js/main.24beb86b.js.map",
+    "787.58b933ed.chunk.js.map": "/NetflixClone/static/js/787.58b933ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2411306c.css",
-    "static/js/main.aac20941.js"
+    "static/css/main.01f7cb5a.css",
+    "static/js/main.24beb86b.js"
   ]
 }
